@@ -16,4 +16,6 @@ use (
 	./13files
 	./14webRequests
 	./15handlingURL
+	./16webReqVerbs
+	./17bitMoreJSON
 )
