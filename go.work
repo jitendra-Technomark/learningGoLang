@@ -1,0 +1,19 @@
+go 1.21.5
+
+use (
+	./03userInput
+	./02variables
+	./04conversion
+	./01Hello
+	./05mytime
+	./06mypointers
+	./07myArray
+	./08mySlices
+	./09maps
+	./10myStruct
+	./11switchCase
+	./12defer
+	./13files
+	./14webRequests
+	./15handlingURL
+)
