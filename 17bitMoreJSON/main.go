@@ -45,8 +45,7 @@ func decodeJson() {
 		"coursename": "ReactJS Bootcamp",
 		"Price": 299,
 		"website": "Youtube",
-		"tags": [
-				"web-dev", "js"]
+		"tags": ["web-dev", "js"]
 	}
 	
 	`)
